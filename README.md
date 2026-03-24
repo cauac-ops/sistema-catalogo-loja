@@ -76,6 +76,11 @@ sensíveis.
 ⚠️ O arquivo .env não deve ser enviado para o repositório.
 
 ------------------------------------------------------------------------
+## 📸 Preview
+
+
+
+------------------------------------------------------------------------
 
 ## 📈 Melhorias futuras
 
@@ -89,10 +94,4 @@ sensíveis.
 
 ## 📄 Licença
 
-Projeto para fins educacionais e portfólio.
-
-------------------------------------------------------------------------
-
-## 👨‍💻 Autor
-
-Desenvolvido por Cauã
+Distribuído sob a licença MIT.
