@@ -7,7 +7,7 @@
 
 🇧🇷 Português \| 🇺🇸 English
 
-------------------------------------------------------------------------
+---
 
 ## 🚀 Sobre o projeto
 
@@ -15,7 +15,7 @@ Sistema web desenvolvido em PHP para gerenciamento de catálogo de
 produtos com painel administrativo, permitindo cadastro, edição e
 exibição de produtos de forma simples e eficiente.
 
-------------------------------------------------------------------------
+---
 
 ## ✨ Funcionalidades
 
@@ -27,7 +27,7 @@ exibição de produtos de forma simples e eficiente.
 -   📱 Integração com WhatsApp
 -   🗂️ Organização por estrutura modular
 
-------------------------------------------------------------------------
+---
 
 ## 🛠️ Tecnologias utilizadas
 
@@ -37,13 +37,13 @@ exibição de produtos de forma simples e eficiente.
 -   HTML / CSS
 -   Bootstrap Icons
 
-------------------------------------------------------------------------
+---
 
 ## 📁 Estrutura do projeto
 
 admin/ components/ config/ public/ banco.sql index.php
 
-------------------------------------------------------------------------
+---
 
 ## ⚙️ Instalação e execução
 
@@ -66,7 +66,7 @@ DB_USER=seu_usuario\
 DB_PASS=sua_senha\
 WHATSAPP=5511999999999
 
-------------------------------------------------------------------------
+---
 
 ## 🔐 Segurança
 
@@ -75,7 +75,8 @@ sensíveis.
 
 ⚠️ O arquivo .env não deve ser enviado para o repositório.
 
-------------------------------------------------------------------------
+---
+
 ## 📸 Preview
 
 <p align="center">
@@ -95,7 +96,7 @@ sensíveis.
 </p>
 
 
-------------------------------------------------------------------------
+---
 
 ## 📈 Melhorias futuras
 
@@ -105,7 +106,7 @@ sensíveis.
 -   🔐 Recuperação de senha
 -   🛡️ Proteção CSRF
 
-------------------------------------------------------------------------
+---
 
 ## 📄 Licença
 
