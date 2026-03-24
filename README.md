@@ -2,17 +2,25 @@
 
 <p align="center">
   <strong>🛍️ Product Catalog System</strong><br>
-  <em>Web system for product listing and administrative management</em>
+  <em>Sistema web para exibição e gerenciamento de produtos com painel administrativo</em>
 </p>
 
 <p align="center">
-  🇧🇷 <a href="#-português">Português</a> | 🇺🇸 <a href="#-english">English</a>
+  🇧🇷 Português | 🇺🇸 <a href="#-english">English</a>
 </p>
+
+> Sistema desenvolvido em PHP para gerenciamento de catálogo de produtos, com área pública para visualização dos itens e painel administrativo para controle do conteúdo.
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow">
   <img src="https://img.shields.io/badge/version-1.0.0-blue">
   <img src="https://img.shields.io/badge/license-MIT-green">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-8.x-777BB4?logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-5-7952B3?logo=bootstrap&logoColor=white">
 </p>
 
 ---
@@ -23,6 +31,48 @@
 
 Sistema web desenvolvido em PHP para gerenciamento de catálogo de produtos com painel administrativo.
 
+---
+
+## 🚀 Tecnologias utilizadas
+
+- **Backend:** PHP  
+- **Banco de dados:** MySQL  
+- **Frontend:** HTML, CSS, Bootstrap  
+- **Outros:** JavaScript
+
+---
+
+  ## 🔗 Demonstração
+
+👉 Acesse o sistema:  
+[Acessar o site](http://cacauteste.byethost15.com/)
+
+👤 Acesso de teste:
+- Usuário: admin  
+- Senha: teste
+
+---
+
+## 📸 Preview do sistema
+
+### 🏠 Página inicial
+![Home](assets/Tela_ini.png)
+
+### 🔐 Tela de login
+![Login](assets/Login.png)
+
+### 📦 Cadastro de produtos
+![Cadastro](assets/Tela_cad.png)
+
+---
+
+## 🧠 Conceitos aplicados
+
+- CRUD completo de produtos  
+- Autenticação de usuários (admin)  
+- Proteção contra CSRF  
+- Organização em camadas
+  
 ---
 
 ## ✨ Funcionalidades
