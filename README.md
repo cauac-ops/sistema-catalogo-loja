@@ -1,12 +1,12 @@
 # 🛍️ Sistema de Catálogo de Produtos
 
-```{=html}
+```html
 <p align="center">
-```
-`<strong>`{=html}🛍️ Product Catalog
+
+<strong>`{=html}🛍️ Product Catalog
 System`</strong>`{=html}`<br>`{=html} `<em>`{=html}Web system for
 product listing and administrative management`</em>`{=html}
-```{=html}
+
 </p>
 ```
 🇧🇷 Português \| 🇺🇸 English
