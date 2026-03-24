@@ -9,7 +9,7 @@
   🇧🇷 Português | 🇺🇸 <a href="#-english">English</a>
 </p>
 
-> Sistema desenvolvido em PHP para gerenciamento de catálogo de produtos, com área pública para visualização dos itens e painel administrativo para controle do conteúdo.
+> > Sistema web completo para gerenciamento de catálogo de produtos, com área pública para exibição e painel administrativo para controle total do conteúdo.
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow">
