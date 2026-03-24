@@ -1,0 +1,39 @@
+#SEGURANÇA
+.env
+.env.local
+.env.*.local
+
+#Configurações sensíveis
+config/config.php
+
+
+#AMBIENTE / DEV
+venv/
+node_modules/
+vendor/
+
+
+#SISTEMA OPERACIONAL
+.DS_Store
+Thumbs.db
+
+#LOGS
+*.log
+error.log
+
+#CACHE
+.cache/
+tmp/
+temp/
+
+#UPLOADS
+public/uploads/*
+!public/uploads/.htaccess
+
+#EDITOR
+.vscode/
+.idea/
+*.swp
+
+#COMPOSER
+composer.lock
