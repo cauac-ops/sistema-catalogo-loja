@@ -102,12 +102,12 @@ Importe o arquivo .sql que está no projeto
 
 5. Configuração
 Edite o arquivo de conexão com o banco:
-
+```
 $host = "localhost";
 $db   = "catalogo_loja";
 $user = "root";
 $pass = "";
-
+```
 6. Executar
 Acesse no navegador:
 
