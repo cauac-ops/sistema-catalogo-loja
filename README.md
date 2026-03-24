@@ -33,7 +33,7 @@ Sistema web desenvolvido em PHP para gerenciamento de catálogo de produtos com 
 
 ---
 
-## 🚀 Tecnologias utilizadas
+## 🛠️ Tecnologias utilizadas
 
 - **Backend:** PHP  
 - **Banco de dados:** MySQL  
@@ -147,7 +147,7 @@ Complete web system for product catalog management, featuring a public interface
 
 ---
 
-## 🚀 Technologies
+## 🛠️ Technologies
 
 - **Backend:** PHP  
 - **Database:** MySQL  
