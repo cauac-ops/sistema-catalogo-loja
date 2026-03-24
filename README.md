@@ -77,11 +77,19 @@ Sistema web desenvolvido em PHP para gerenciamento de catálogo de produtos com 
 
 ## ✨ Funcionalidades
 
-- 📦 Listagem de produtos
-- ⭐ Destaque de produtos
-- 🔐 Autenticação de administrador
-- ⚙️ Painel administrativo
+### 🛍️ Área pública
+- Visualização de produtos cadastrados  
+- Destaque de produtos na página inicial  
 
+### ⚙️ Painel administrativo
+- Cadastro, edição e exclusão de produtos (CRUD)  
+- Upload de imagens dos produtos  
+- Gerenciamento completo do catálogo  
+
+### 🔐 Segurança
+- Autenticação de administrador  
+- Proteção contra acesso não autorizado
+  
 ---
 
 ## ⚙️ Instalação e execução
