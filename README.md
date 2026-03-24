@@ -85,7 +85,7 @@ sensíveis.
   <img src="assets/Tela_ini.png" width="800">
 </p>
 
-
+---
 
 ### ℹ️ Sobre
 
