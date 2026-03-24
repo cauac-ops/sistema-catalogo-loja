@@ -84,16 +84,6 @@ Sistema web desenvolvido em PHP para gerenciamento de catálogo de produtos com 
 
 ---
 
-## 📸 Preview
-
-### 🏠 Tela Inicial
-
-<p align="center">
-  <img src="assets/Tela_ini.png" width="800">
-</p>
-
----
-
 ## 📈 Melhorias futuras
 
 - 🔎 Busca de produtos
