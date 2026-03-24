@@ -108,7 +108,7 @@ $db   = "catalogo_loja";
 $user = "root";
 $pass = "";
 ```
-6. Executar
+5. Executar
 Acesse no navegador:
 
 http://localhost/sistema-catalogo-loja
