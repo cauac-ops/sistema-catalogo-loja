@@ -85,23 +85,17 @@ sensíveis.
   <img src="assets/Tela_ini.png" width="800">
 </p>
 
----
-
 ### ℹ️ Sobre
 
 <p align="center">
   <img src="assets/Sobre.png" width="800">
 </p>
 
----
-
 ### 📦 Catálogo
 
 <p align="center">
   <img src="assets/Catalogo.png" width="800">
 </p>
-
----
 
 ### 📞 Contato
 
