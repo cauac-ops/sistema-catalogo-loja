@@ -78,6 +78,21 @@ sensíveis.
 ------------------------------------------------------------------------
 ## 📸 Preview
 
+<p align="center">
+  <img src="assets/Tela_ini.png" width="800">
+</p>
+
+<p align="center">
+  <img src="assets/Sobre.png" width="800">
+</p>
+
+<p align="center">
+  <img src="assets/Catalogo.png" width="800">
+</p>
+
+<p align="center">
+  <img src="assets/Contato.png" width="800">
+</p>
 
 
 ------------------------------------------------------------------------
