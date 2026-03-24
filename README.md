@@ -141,18 +141,110 @@ MIT License
 
 ## 🇺🇸 English
 
-## 🚀 About
+## 🚀 About the project
 
-PHP web system for product catalog management with an admin panel.
+Complete web system for product catalog management, featuring a public interface for product display and an administrative panel for full content control.
+
+---
+
+## 🚀 Technologies
+
+- **Backend:** PHP  
+- **Database:** MySQL  
+- **Frontend:** HTML, CSS, Bootstrap  
+- **Others:** JavaScript  
+
+---
+
+## 🔗 Live Demo
+
+👉 Access the system:  
+http://cacauteste.byethost15.com/
+
+👤 Test access:
+- Username: admin  
+- Password: teste  
+
+---
+
+## 📸 System Preview
+
+### 🏠 Home page
+![Home](assets/Tela_ini.png)
+
+### 🔐 Login page
+![Login](assets/Login.png)
+
+### 📦 Product management
+![Admin](assets/Tela_cad.png)
+
+---
+
+## 🧠 Concepts Applied
+
+- Full product CRUD system  
+- User authentication (admin)  
+- CSRF protection  
+- Layered architecture organization  
 
 ---
 
 ## ✨ Features
 
-- 📦 Product listing
-- ⭐ Featured products
-- 🔐 Admin authentication
-- ⚙️ Admin panel
+### 🛍️ Public area
+- Product listing and visualization  
+- Featured products on homepage  
+
+### ⚙️ Admin panel
+- Product CRUD (Create, Read, Update, Delete)  
+- Image upload support  
+- Full catalog management  
+
+### 🔐 Security
+- Admin authentication  
+- Access control  
+
+---
+
+## ⚙️ Installation and Setup
+
+### 1. Clone the repository
+
+```
+git clone https://github.com/cauac-ops/sistema-catalogo-loja.git
+cd sistema-catalogo-loja
+```
+
+2. Configure environment
+Install a local server (XAMPP, Laragon or WAMP)
+Place the project inside the htdocs folder
+
+4. Database
+Create a MySQL database (e.g. catalogo_loja)
+Import the .sql file from the project
+
+5. Configuration
+Edit the database connection file:
+
+```
+$host = "localhost";
+$db   = "catalogo_loja";
+$user = "root";
+$pass = "";
+5. Run the project
+```
+Access in your browser:
+
+http://localhost/sistema-catalogo-loja
+
+---
+
+## 📈 Future Improvements
+- 🔎 Product search
+- 📊 Dashboard
+- 📦 Pagination
+- 🔐 Password recovery
+- 🛡️ Enhanced security
 
 ---
 
