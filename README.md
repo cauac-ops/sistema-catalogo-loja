@@ -84,6 +84,37 @@ Sistema web desenvolvido em PHP para gerenciamento de catálogo de produtos com 
 
 ---
 
+## ⚙️ Instalação e execução
+
+### 1. Clone o repositório
+
+```
+git clone https://github.com/cauac-ops/sistema-catalogo-loja.git
+cd sistema-catalogo-loja
+```
+2. Configure o ambiente
+Instale um servidor local (XAMPP, Laragon ou WAMP)
+Coloque o projeto na pasta htdocs (ou equivalente)
+
+4. Banco de dados
+Crie um banco no MySQL (ex: catalogo_loja)
+Importe o arquivo .sql que está no projeto
+
+5. Configuração
+Edite o arquivo de conexão com o banco:
+
+$host = "localhost";
+$db   = "catalogo_loja";
+$user = "root";
+$pass = "";
+
+6. Executar
+Acesse no navegador:
+
+http://localhost/sistema-catalogo-loja
+
+---
+
 ## 📈 Melhorias futuras
 
 - 🔎 Busca de produtos
