@@ -33,6 +33,21 @@ Sistema web desenvolvido em PHP para gerenciamento de catálogo de produtos com 
 
 ---
 
+## 🧠 Objetivo do Projeto
+
+Este projeto foi desenvolvido com foco em experiência do usuário (UI/UX) e agilidade de implementação.
+
+Diferente do projeto AFP (sistema completo com regras de negócio e segurança mais robusta), aqui o objetivo foi demonstrar:
+
+- Criação de interfaces modernas
+- Interação dinâmica com JavaScript
+- Integração com fluxo de vendas simples (WhatsApp)
+- Estrutura leve para aplicações rápidas
+
+Este projeto simula um cenário real onde a prioridade é velocidade e apresentação, e não complexidade de regras de negócio.
+
+---
+
 ## 🛠️ Tecnologias utilizadas
 
 - **Backend:** PHP  
@@ -144,6 +159,21 @@ MIT License
 ## 🚀 About the project
 
 Complete web system for product catalog management, featuring a public interface for product display and an administrative panel for full content control.
+
+---
+
+## 🧠 Project Purpose
+
+This project was developed with a focus on user experience (UI/UX) and rapid implementation.
+
+Unlike the AFP project (a complete system with advanced business rules and stronger security), the goal here was to demonstrate:
+
+- Modern and responsive interface design  
+- Dynamic interactions using JavaScript  
+- Integration with a simplified sales flow (WhatsApp)  
+- A lightweight and efficient structure for fast deployment  
+
+This project simulates a real-world scenario where speed, usability, and visual presentation are prioritized over complex business logic.
 
 ---
 
