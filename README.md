@@ -57,17 +57,6 @@ Este projeto simula um cenário real onde a prioridade é velocidade e apresenta
 
 ---
 
-  ## 🔗 Demonstração
-
-👉 Acesse o sistema:  
-[Acessar o site](http://cacauteste.byethost15.com/)
-
-👤 Acesso de teste:
-- Usuário: admin  
-- Senha: teste
-
----
-
 ## 📸 Preview do sistema
 
 ### 🏠 Página inicial
@@ -183,17 +172,6 @@ This project simulates a real-world scenario where speed, usability, and visual 
 - **Database:** MySQL  
 - **Frontend:** HTML, CSS, Bootstrap  
 - **Others:** JavaScript  
-
----
-
-## 🔗 Live Demo
-
-👉 Access the system:  
-http://cacauteste.byethost15.com/
-
-👤 Test access:
-- Username: admin  
-- Password: teste  
 
 ---
 
